@@ -1,0 +1,6 @@
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Classes\bin\Debug\Classes.exe.config
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Classes\bin\Debug\Classes.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Classes\bin\Debug\Classes.pdb
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Classes\obj\Debug\Classes.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Classes\obj\Debug\Classes.pdb

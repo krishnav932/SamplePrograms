@@ -1,0 +1,7 @@
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Delegates\bin\Debug\Delegates.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Delegates\obj\Debug\Delegates.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Delegates\obj\Debug\Delegates.pdb

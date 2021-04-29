@@ -1,0 +1,6 @@
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Interfaces\obj\Debug\Interfaces.pdb

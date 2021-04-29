@@ -1,0 +1,7 @@
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\DataTypes\bin\Debug\DataTypes.exe.config
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\DataTypes\bin\Debug\DataTypes.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\DataTypes\bin\Debug\DataTypes.pdb
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\DataTypes\obj\Debug\DataTypes.csprojAssemblyReference.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\DataTypes\obj\Debug\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\DataTypes\obj\Debug\DataTypes.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\DataTypes\obj\Debug\DataTypes.pdb

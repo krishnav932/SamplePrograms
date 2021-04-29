@@ -1,0 +1,6 @@
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Inheritance\obj\Debug\Inheritance.pdb

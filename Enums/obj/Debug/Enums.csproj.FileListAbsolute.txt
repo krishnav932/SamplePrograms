@@ -1,0 +1,6 @@
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Enums\bin\Debug\Enums.exe.config
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Enums\bin\Debug\Enums.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Enums\bin\Debug\Enums.pdb
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Enums\obj\Debug\Enums.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Enums\obj\Debug\Enums.pdb

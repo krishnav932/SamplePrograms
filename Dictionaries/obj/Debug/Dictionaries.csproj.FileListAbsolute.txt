@@ -1,0 +1,7 @@
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Dictionaries\bin\Debug\Dictionaries.exe.config
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Dictionaries\bin\Debug\Dictionaries.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Dictionaries\bin\Debug\Dictionaries.pdb
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Dictionaries\obj\Debug\Dictionaries.csprojAssemblyReference.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Dictionaries\obj\Debug\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Dictionaries\obj\Debug\Dictionaries.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Dictionaries\obj\Debug\Dictionaries.pdb

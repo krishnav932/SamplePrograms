@@ -1,0 +1,6 @@
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Lists\bin\Debug\Lists.exe.config
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Lists\bin\Debug\Lists.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Lists\bin\Debug\Lists.pdb
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Lists\obj\Debug\Lists.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Lists\obj\Debug\Lists.pdb

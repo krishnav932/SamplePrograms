@@ -1,0 +1,7 @@
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Structures\bin\Debug\Structures.exe.config
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Structures\bin\Debug\Structures.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Structures\bin\Debug\Structures.pdb
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Structures\obj\Debug\Structures.csprojAssemblyReference.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Structures\obj\Debug\Structures.csproj.CoreCompileInputs.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Structures\obj\Debug\Structures.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Structures\obj\Debug\Structures.pdb

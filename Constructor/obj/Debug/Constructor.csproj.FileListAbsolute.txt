@@ -1,0 +1,7 @@
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Constructor\bin\Debug\Constructor.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Constructor\bin\Debug\Constructor.pdb
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Constructor\obj\Debug\Constructor.csprojAssemblyReference.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Constructor\obj\Debug\Constructor.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Constructor\obj\Debug\Constructor.pdb

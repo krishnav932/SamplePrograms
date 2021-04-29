@@ -1,0 +1,6 @@
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Polymorphism\bin\Debug\Polymorphism.exe.config
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Polymorphism\bin\Debug\Polymorphism.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Polymorphism\bin\Debug\Polymorphism.pdb
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Polymorphism\obj\Debug\Polymorphism.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Polymorphism\obj\Debug\Polymorphism.pdb

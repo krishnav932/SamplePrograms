@@ -1,0 +1,7 @@
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Operators\bin\Debug\Operators.exe.config
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Operators\bin\Debug\Operators.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Operators\bin\Debug\Operators.pdb
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Operators\obj\Debug\Operators.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Operators\obj\Debug\Operators.pdb
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Operators\obj\Debug\Operators.csprojAssemblyReference.cache

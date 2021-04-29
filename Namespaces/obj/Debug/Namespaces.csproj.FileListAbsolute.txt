@@ -1,0 +1,7 @@
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Namespaces\bin\Debug\Namespaces.exe.config
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Namespaces\bin\Debug\Namespaces.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Namespaces\bin\Debug\Namespaces.pdb
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Namespaces\obj\Debug\Namespaces.csprojAssemblyReference.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Namespaces\obj\Debug\Namespaces.csproj.CoreCompileInputs.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Namespaces\obj\Debug\Namespaces.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Namespaces\obj\Debug\Namespaces.pdb
