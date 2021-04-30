@@ -12,18 +12,18 @@ namespace Loops
         {
             
             //Nested Loop
-            NestedLoop nl = new NestedLoop();
-            nl.PatternMethod();
-            nl.NestedWhile();
-            nl.NestedDoWhile();
+            //NestedLoop nl = new NestedLoop();
+            //nl.PatternMethod();
+            //nl.NestedWhile();
+            //nl.NestedDoWhile();
 
-            //For Each
+            ////For Each
 
-            ForEach fe = new ForEach();
-            fe.ItemCount();
+            //ForEach fe = new ForEach();
+            //fe.ItemCount();
 
 
-            //Do While Loop
+            ////Do While Loop
             //DoWhile dw = new DoWhile();
             //dw.DoWhileMethod();
 

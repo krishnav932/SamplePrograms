@@ -1,0 +1,6 @@
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\LINQ\bin\Debug\LINQ.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\LINQ\obj\Debug\LINQ.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\LINQ\obj\Debug\LINQ.pdb

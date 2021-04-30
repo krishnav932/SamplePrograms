@@ -1,0 +1,6 @@
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\DynamicDataType\bin\Debug\DynamicDataType.exe.config
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\DynamicDataType\bin\Debug\DynamicDataType.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\DynamicDataType\bin\Debug\DynamicDataType.pdb
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\DynamicDataType\obj\Debug\DynamicDataType.csproj.CoreCompileInputs.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\DynamicDataType\obj\Debug\DynamicDataType.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\DynamicDataType\obj\Debug\DynamicDataType.pdb

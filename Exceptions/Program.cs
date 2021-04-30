@@ -27,7 +27,7 @@ namespace Exceptions
             {
                 Console.WriteLine("input must be numeric value"); //another way
             }
-            catch(Exception ex)
+            catch(Exception ex) //Exception class has all the predifined error messages
             {
                 Console.WriteLine(ex.Message);
             }

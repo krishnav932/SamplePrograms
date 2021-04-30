@@ -1,0 +1,2 @@
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache

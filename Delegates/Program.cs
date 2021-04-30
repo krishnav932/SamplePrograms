@@ -11,16 +11,23 @@ namespace Delegates
         
         public delegate void Add(int a, int b);
         public delegate void Sub(int a, int b);
+        public delegate void Div(int a, int b);
         public void Sum(int a, int b)
         {
-            Console.WriteLine("(20+ 10) = {0}", a + b);
+            Console.WriteLine("{0} + {1} = {2}",a,b, a + b);
         }
 
         public void Subtract(int a, int b)
         {
-            Console.WriteLine("(20 - 10) = {0}", a - b);
-        }
+            Console.WriteLine("{0} - {1} = {2}",a,b, a - b);
+       }
 
+        public void Division(int a, int b)
+        {
+            Console.WriteLine("{0} / {1} = {2}",a,b, a / b);
+            Console.WriteLine($"{a} / {b} = {a/b}");
+            Console.WriteLine(a+" / "+b+" = "+a/b);
+        }
         public static void Main(String[] args)
         {
             DelegateClass obj = new DelegateClass();
@@ -28,9 +35,11 @@ namespace Delegates
             // creating object of delegate 
             Add delAdd = new Add(obj.Sum);// pass the parameter using class object "obj"
             Sub delSub = new Sub(obj.Subtract);
+            Div delDiv = new Div(obj.Division);
 
             delAdd(20, 10); // pass the values to the methods by delegate object
-            delSub(20, 10);
+            delSub(40, 50);
+            delDiv(60, 30);
 
             //Another way by using "Invoke" method
             //delAdd.Invoke(20, 10);

@@ -1,0 +1,9 @@
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Events\obj\Debug\Events.Form1.resources
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Events\obj\Debug\Events.Properties.Resources.resources
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Events\obj\Debug\Events.csproj.GenerateResource.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Events\bin\Debug\Events.exe.config
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Events\bin\Debug\Events.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Events\bin\Debug\Events.pdb
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Events\obj\Debug\Events.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Events\obj\Debug\Events.pdb

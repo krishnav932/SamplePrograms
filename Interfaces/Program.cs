@@ -12,16 +12,16 @@ namespace Interfaces
     }
     interface I2
     {
-        void I2Method();
+        void Print();
     }
     class Customer : ICustomer, I2  //multiple inheritance in interfaces
     {
-        public void I2Method()
+        public void Print()
         {
             Console.WriteLine("interface I2Method");
         }
 
-        public void Print()
+         void I2.Print()
         {
             Console.WriteLine("interface print method");
         }
@@ -31,8 +31,9 @@ namespace Interfaces
         static void Main(string[] args)
         {
             Customer c1 = new Customer();
-            c1.Print();
-            c1.I2Method();
+            ((I2)(c1)).Print();
+            ((ICustomer)(c1)).Print();
+
         }
     }
 }

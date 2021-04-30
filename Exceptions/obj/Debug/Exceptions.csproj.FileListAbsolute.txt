@@ -4,3 +4,4 @@ C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Exceptions\bin\Debug\Excepti
 C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
 C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Exceptions\obj\Debug\Exceptions.exe
 C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Exceptions\obj\Debug\Exceptions.pdb
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache

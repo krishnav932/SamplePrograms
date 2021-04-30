@@ -1,0 +1,7 @@
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\LambdaExpression\bin\Debug\LambdaExpression.exe.config
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\LambdaExpression\bin\Debug\LambdaExpression.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\LambdaExpression\bin\Debug\LambdaExpression.pdb
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\LambdaExpression\obj\Debug\LambdaExpression.csprojAssemblyReference.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\LambdaExpression\obj\Debug\LambdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\LambdaExpression\obj\Debug\LambdaExpression.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\LambdaExpression\obj\Debug\LambdaExpression.pdb

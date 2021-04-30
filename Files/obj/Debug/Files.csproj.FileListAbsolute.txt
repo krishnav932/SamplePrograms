@@ -1,0 +1,10 @@
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Files\bin\Debug\Files.exe.config
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Files\bin\Debug\Files.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Files\bin\Debug\Files.pdb
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Files\obj\Debug\Files.csprojAssemblyReference.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Files\obj\Debug\Files.Form1.resources
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Files\obj\Debug\Files.Properties.Resources.resources
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Files\obj\Debug\Files.csproj.GenerateResource.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Files\obj\Debug\Files.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Files\obj\Debug\Files.pdb

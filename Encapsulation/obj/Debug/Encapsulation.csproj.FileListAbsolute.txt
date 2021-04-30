@@ -1,0 +1,7 @@
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Encapsulation\obj\Debug\Encapsulation.csprojAssemblyReference.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\Vamshi Kotturu\source\repos\SamplePrograms\Encapsulation\obj\Debug\Encapsulation.pdb
